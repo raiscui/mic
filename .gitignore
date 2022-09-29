@@ -37,3 +37,7 @@ node_modules
 .vscode
 package-lock.json
 README.html
+*.raw
+*.pcm
+tests/test copy.js
+batch-example.bat
